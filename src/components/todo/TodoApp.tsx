@@ -100,7 +100,7 @@ export const TodoApp = () => {
   return (
     <main className="container mx-auto max-w-3xl py-10">
       <header className="mb-6 text-center">
-        <h1 className="text-4xl font-bold tracking-tight mb-2">Modern To‑Do List</h1>
+        <h1 className="text-4xl font-bold tracking-tight mb-2">To‑Do List</h1>
         <p className="text-muted-foreground">Organize tasks with priorities, due dates, and smart filters.</p>
       </header>
 
